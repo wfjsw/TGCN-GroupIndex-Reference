@@ -9,15 +9,15 @@
 | dynlink | 动态生成临时加群链接 | Invite Users with Link\(Add Users\) | 否 |
 | deljoin | 自动删除加群/退群消息 | Delete Message | 否 |
 | antihalal | [防清真组件](/plugin_antihalal.md) | Ban Users, Delete Message | 否 |
-| antihalalenhanced | 防清真组件增强（根据显示名判断） | Ban Users, Delete Message | 否 |
+| antihalalenhanced | 防清真增强（名字清真的直接踢）不能代替 `antihalal` | Ban Users, Delete Message | 否 |
 
 以上管理功能均可由群组创始人或创始人指定管理员决定开启或关闭：
 
 在**群组内**使用如下指令：
 
-开启：`/enable 功能代号`
+开启：`/enable@zh_groups_bot 功能代号`
 
-关闭：`/disable 功能代号`
+关闭：`/disable@zh_groups_bot 功能代号`
 
 **~~由于管理功能状态与索引条目共同存放，管理功能的偏好设置仅对已索引群组有效。~~
 **
