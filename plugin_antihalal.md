@@ -18,7 +18,9 @@
     1. 包含多于 10 个清真字符
     2. 除去空格后，清真字符占全部字符的 45%
   2. 包含以下关键字的字符串将被认为清真（增强判定）
-    - `sharma` (来源：`android Discuss`、`91yun`)
+    - `sharma` （来源：`android Discuss`、`91yun`）
+    - `M.b.a.` （录入于 2017-10-03）
+    - `pollsciemo` （[来源](https://t.me/geekschannel/844)）
 3. 数据捕获时机
   1. 新成员加群时，
      1. 判断是否在已知的清真列表
