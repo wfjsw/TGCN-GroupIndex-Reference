@@ -4,7 +4,7 @@
 
 | 功能代号 | 功能名 | 所需权限 | 是否默认开启 |
 | :---: | :---: | :---: | :---: |
-| nospam | [反群发广告、垃圾信息、身份伪装等](/note-about-spam-tag.md) | （可选）Ban Users, Delete Message | 是 |
+| nospam | [(弃用评估中)反群发广告、垃圾信息、身份伪装等](/note-about-spam-tag.md) | （可选）Ban Users, Delete Message | 是 |
 | noblue | 自动删除蓝色机器人命令防止误触(5秒后) | Delete Message | 是 |
 | dynlink | 动态生成临时加群链接 | Invite Users with Link\(Add Users\) | 否 |
 | deljoin | 自动删除加群/退群消息 | Delete Message | 否 |
