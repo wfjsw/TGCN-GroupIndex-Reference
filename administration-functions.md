@@ -7,6 +7,7 @@
 | nospam | [(弃用评估中)反群发广告、垃圾信息、身份伪装等](/note-about-spam-tag.md) | （可选）Ban Users, Delete Message | 是 |
 | noblue | 自动删除蓝色机器人命令防止误触(5秒后) | Delete Message | 是 |
 | dynlink | 动态生成临时加群链接 | Invite Users with Link\(Add Users\) | 否 |
+| antibot | 自动移除群员加的机器人（群主和管理员不受限制） | Ban Users | 否 |
 | deljoin | 自动删除加群/退群消息 | Delete Message | 否 |
 | antihalal | [防清真组件](/plugin_antihalal.md) | Ban Users, Delete Message | 否 |
 | antihalalenhanced | 防清真增强（名字清真的直接踢）不能代替 `antihalal` | Ban Users, Delete Message | 否 |
