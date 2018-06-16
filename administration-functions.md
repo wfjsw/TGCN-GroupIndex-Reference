@@ -8,8 +8,10 @@
 | dynlink | 动态生成临时加群链接 | Invite Users with Link\(Add Users\) | 否 |
 | antibot | 自动移除群员加的机器人（群主和管理员不受限制） | Ban Users | 否 |
 | deljoin | 自动删除加群/退群消息 | Delete Message | 否 |
-| antihalal | [防清真组件](/plugin_antihalal.md) | Ban Users, Delete Message | 否 |
-| antihalalenhanced | 防清真增强（名字清真的直接踢）不能代替 `antihalal` | Ban Users, Delete Message | 否 |
+| antihalal | [防清真组件](/plugin_antihalal.md) 总开关 | Ban Users, Delete Message | 否 |
+| antihalal.name| 防清真增强（检测显示名） | Ban Users, Delete Message | 否 |
+| antihalal.sticker | 防清真增强（检测贴纸包名）| Ban Users, Delete Message | 否 |
+| antihalal.nodb | 忽略数据库清真标记 | / | 否 |
 
 以上管理功能均可由群组创始人或创始人指定管理员决定开启或关闭：
 
